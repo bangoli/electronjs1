@@ -1,0 +1,27 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Hello First",
+  "main": "main.js",
+  "scripts": {
+    "test": "bangoli",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bangoli/electronjs1.git"
+  },
+  "keywords": [
+    "electron",
+    "test"
+  ],
+  "author": "bangoli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bangoli/electronjs1/issues"
+  },
+  "homepage": "https://github.com/bangoli/electronjs1#readme",
+  "devDependencies": {
+    "electron": "^25.2.0"
+  }
+}
